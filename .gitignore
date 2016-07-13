@@ -3,3 +3,4 @@ node_modules
 dist
 app/styles/css/materialize.min.css
 app/styles/fonts
+app/js/materialize.min.js
