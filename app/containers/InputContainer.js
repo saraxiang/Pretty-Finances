@@ -6,14 +6,10 @@ var InputContainer = React.createClass({
     return (
       <div className="row">
         <form className="col s12">
-        	<div className="row">
-	          <Input label="Event"/>
-	          <Input label="Amount Spent"/>
-	          <Input label="Date"/>
-	        </div>
+        	<Input />
         </form>
       </div>
-    )
+    );
   }
 });
 
